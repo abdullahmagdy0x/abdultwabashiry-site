@@ -1,0 +1,11 @@
+{
+  "name": "سيرة ومسيرة – عبدالتواب العشيري",
+  "short_name": "سيرة ومسيرة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#F2F1EC",
+  "theme_color": "#0E2724",
+  "icons": [{"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]
+}
